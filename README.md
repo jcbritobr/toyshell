@@ -21,3 +21,5 @@ drwxr-xr-x 3 jcbritobr jcbritobr 4.0K Jan 29 12:40 target
 >>
 ```
 
+![Toy Shell](images/toyshell.png)
+
