@@ -1,5 +1,5 @@
 # Toy Shell Written in Rust
-This is a simple toy shell written in Rust language with porpose of learning system programmim, and in a specific theme, process management.
+This is a simple toy shell written in Rust language with porpose of learning system programming and process management.
 
 * Compile
 ```
